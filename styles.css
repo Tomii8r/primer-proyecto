@@ -1,0 +1,151 @@
+/* Colores de titulos del podio */
+
+#top3, #top2, #top1 {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6);
+}
+
+#top3 {
+    color: #B87333;
+}
+
+#top2{
+    color:#B0BEC5;
+}
+
+#top1{
+    color:#F5C518
+}
+
+/* Estilos Generales */
+
+body {
+    font-family: sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 2.5em;
+    color: #000000;
+    text-align: center;
+}
+
+h2 {
+    font-size: 2em;
+    text-align:left
+}
+
+#autor {
+    font-size: 16px;
+    text-align: right;
+    color: #06546e;
+}
+
+body::selection {
+    background-color: #818181;
+    color: #000000;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.Skip {
+
+    color: #5c0505;
+    border-radius: 10px;
+    padding: 5px;
+    max-width: fit-content;
+}
+
+.Skip:hover {
+    background-color: #ff0000;
+    text-decoration: none;
+}
+
+.Skip:active {
+    color: #f0f0f0;
+}
+
+/* Estilo de la introduccion */
+
+.intro {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: justify;
+}
+
+.Intro__p {
+    font-size: 1.2em;
+    color: #333333;
+    margin: 10px 0;
+}
+
+.intro__image , .top10__image {
+    width: 50%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+/* Estilo del Top 10 */
+
+.Top10 {
+    display: flex;
+    flex-direction: column;
+    margin-top: 25px;
+}
+
+.Top10__p {
+    font-size: 1.2em;
+    color: #333333;
+    margin: 10px 0;
+    text-align: justify;
+}
+
+.media-section {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 2rem;
+    margin: 2rem;
+    flex-wrap: wrap;
+}
+
+.spotify-wrapper {
+    width: 320px;
+    min-width: 280px;
+    margin-top: 45px;
+}
+
+.video-section {
+    width: 60%;
+    flex: 1;
+    text-align: center;
+}
+
+.titulo-video {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+}
+
+/* Estilo del footer agradecimiento */
+.agradecimientos {
+    text-align: center;
+    padding: 2rem;
+    background-color: #111;
+    color: #eee;
+    font-family: 'Arial', sans-serif;
+    margin-top: 2rem;
+    border-top: 2px solid #444;
+}
+
+.agradecimientos h3 {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+    color: #f5c518;
+    text-shadow: 1px 1px 4px black;
+}
