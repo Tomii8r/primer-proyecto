@@ -18,7 +18,7 @@ Cualquier sugerencia o mejora será bienvenida. ¡Compartilo si te gustó!
 ## 🚀 Ver online
 
 👉 Podés verlo publicado en:  
-**[https://TU-USUARIO.github.io/charly-discografia/](https://TU-USUARIO.github.io/charly-discografia/)**
+**https://tomii8r.github.io/primer-proyecto/**
 
 ---
 
