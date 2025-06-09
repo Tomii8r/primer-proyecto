@@ -22,4 +22,4 @@ Cualquier sugerencia o mejora será bienvenida. ¡Compartilo si te gustó!
 
 ---
 
-> ✨ Hecho por [Tu Nombre o Usuario de GitHub]
+> ✨ Hecho por tomii8r
